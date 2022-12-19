@@ -1,0 +1,13 @@
+{
+  "name": "09",
+  "version": "1.0.0",
+  "description": "",
+  "main": "setup.js",
+  "type": "module",
+  "scripts": {
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
